@@ -340,6 +340,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+
+- [Base L2 Agent Kit](https://github.com/manteclaw/base-l2-agent-kit-mcp) - MCP server for Base L2 DeFi (wallet, swaps, liquidity, gas, contract calls, flash loans) - â­ 0
+
 ## 🧬 <a name="research-data"></a>Research & Data
 
 > Access to research papers, genetic data, and specialized datasets.
